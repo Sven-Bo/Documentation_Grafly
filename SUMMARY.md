@@ -17,6 +17,10 @@
 * [How to create a Gauge chart](guides/how-to-create-a-gauge-chart.md)
 * [How to deploy your dashboard to the internet for free](guides/how-to-deploy-your-dashboard-to-the-internet-for-free.md)
 
+***
+
+* [How to customize chart colors with a custom theme](how-to-customize-chart-colors-with-a-custom-theme.md)
+
 ## ⁉️ FAQ
 
 * [What is the output format of the charts?](faq/what-is-the-output-format-of-the-charts.md)
